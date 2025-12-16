@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "588a5b5e43a8189a",
@@ -198,6 +197,7 @@
   },
   "active": "57e09dbef020cde0",
   "lastOpenFiles": [
+    "0-线性衍生/哈希表.pdf",
     "欢迎.md",
     "0-线性衍生/哈希表.md",
     "4-DP",
