@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-线性衍生/哈希表.md",
+                "file": "1-树/3.红黑树删除节点.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "哈希表"
+              "title": "3.红黑树删除节点"
             }
           }
         ]
@@ -195,15 +195,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "57e09dbef020cde0",
+  "active": "e7b8c4dbbbf4ca6a",
   "lastOpenFiles": [
-    "0-线性衍生/哈希表.pdf",
+    "0-线性衍生/哈希表.md",
     "1-树/3.红黑树删除节点.md",
+    "0-线性衍生/哈希表.pdf",
     "1-树/图片资源",
     "1-树/图片资源/红黑树删除.png",
     "1-树/2.红黑树手搓.md",
     "1-树/1.红黑树RBT.md",
-    "0-线性衍生/哈希表.md",
     "欢迎.md",
     "4-DP",
     "3-博弈",
