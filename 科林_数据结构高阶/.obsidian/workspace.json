@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-树/4.博弈树 与回溯法.md",
+                "file": "2-图/1.二部图和最大流.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.博弈树 与回溯法"
+              "title": "1.二部图和最大流"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "588a5b5e43a8189a",
@@ -198,8 +197,9 @@
   },
   "active": "57e09dbef020cde0",
   "lastOpenFiles": [
-    "1-树/3.红黑树删除节点.md",
     "1-树/4.博弈树 与回溯法.md",
+    "2-图/1.二部图和最大流.md",
+    "1-树/3.红黑树删除节点.md",
     "0-线性衍生/哈希表.md",
     "0-线性衍生/哈希表.pdf",
     "1-树/图片资源",
