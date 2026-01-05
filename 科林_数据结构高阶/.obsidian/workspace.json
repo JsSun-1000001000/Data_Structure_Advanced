@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "588a5b5e43a8189a",
@@ -195,15 +196,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7b8c4dbbbf4ca6a",
+  "active": "57e09dbef020cde0",
   "lastOpenFiles": [
+    "2-图/图片资源/Ford-Fulkerson路径.png",
+    "2-图/1.二部图和最大流.md",
     "2-图/图片资源/residual graph3.png",
     "2-图/图片资源/residual graph2.png",
     "2-图/图片资源/residual graph.png",
     "2-图/图片资源/最大流.png",
     "2-图/图片资源/二部图.png",
     "2-图/图片资源/非二部图.png",
-    "2-图/1.二部图和最大流.md",
     "2-图/图片资源",
     "2-图/图片资源/二分图.png",
     "1-树/4.博弈树 与回溯法.md",
