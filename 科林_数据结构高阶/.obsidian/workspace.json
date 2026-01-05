@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "588a5b5e43a8189a",
@@ -198,8 +197,10 @@
   },
   "active": "57e09dbef020cde0",
   "lastOpenFiles": [
-    "2-图/图片资源/Ford-Fulkerson路径.png",
+    "2-图/图片资源/netflow.pdf",
     "2-图/1.二部图和最大流.md",
+    "2-图/图片资源/netflow.pdf.crdownload",
+    "2-图/图片资源/Ford-Fulkerson路径.png",
     "2-图/图片资源/residual graph3.png",
     "2-图/图片资源/residual graph2.png",
     "2-图/图片资源/residual graph.png",
