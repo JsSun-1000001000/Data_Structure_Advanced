@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "68ad39508c62dc0a",
+        "id": "cb8901934c060829",
         "type": "tabs",
         "children": [
           {
-            "id": "57e09dbef020cde0",
+            "id": "963c03ac50f814ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "588a5b5e43a8189a",
@@ -196,10 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "57e09dbef020cde0",
+  "active": "963c03ac50f814ea",
   "lastOpenFiles": [
-    "2-图/1.二部图和最大流.md",
     "3-博弈/博弈与SG函数.md",
+    "2-图/1.二部图和最大流.md",
     "2-图/图片资源/Gale Sharply算法.png",
     "2-图/图片资源/匈牙利算法图解.png",
     "2-图/图片资源/最大流在二部图的应用.png",
