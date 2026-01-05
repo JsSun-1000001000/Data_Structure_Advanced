@@ -15,6 +15,8 @@
 看n和m的关系
 
 ==**结论：**==
-1. $n\%(m+1)=0$ 必败
-2. $n\%(m+1)\neq{0}$ 必胜
-3. 必败P—position；必胜N—position
+1. $n\%(m+1)=0$ 必败（后手有必胜策略）
+2. $n\%(m+1)\neq{0}$ 先手有必胜策略
+3. 必败Previous-position；必胜Next—position
+
+### 
