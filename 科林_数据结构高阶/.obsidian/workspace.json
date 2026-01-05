@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-DP/1.DP.md",
+                "file": "4-DP/1.DP Dynamic Programming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.DP"
+              "title": "1.DP Dynamic Programming"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "588a5b5e43a8189a",
@@ -198,7 +199,7 @@
   "active": "963c03ac50f814ea",
   "lastOpenFiles": [
     "3-博弈/1.博弈与SG函数.md",
-    "4-DP/1.DP.md",
+    "4-DP/1.DP Dynamic Programming.md",
     "1-树/4.博弈树 与回溯法.md",
     "2-图/1.二部图和最大流.md",
     "2-图/图片资源/Gale Sharply算法.png",
