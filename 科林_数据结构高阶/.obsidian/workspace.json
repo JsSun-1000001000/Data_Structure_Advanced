@@ -11,12 +11,14 @@
             "id": "57e09dbef020cde0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20260105160928.png"
+                "file": "3-博弈/博弈与SG函数.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260105160928"
+              "icon": "lucide-file",
+              "title": "博弈与SG函数"
             }
           }
         ]
@@ -193,10 +195,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7b8c4dbbbf4ca6a",
+  "active": "57e09dbef020cde0",
   "lastOpenFiles": [
     "2-图/1.二部图和最大流.md",
-    "Pasted image 20260105160928.png",
+    "3-博弈/博弈与SG函数.md",
+    "2-图/图片资源/Gale Sharply算法.png",
     "2-图/图片资源/匈牙利算法图解.png",
     "2-图/图片资源/最大流在二部图的应用.png",
     "2-图/图片资源/netflow.pdf",
