@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-博弈/博弈与SG函数.md",
+                "file": "1-树/4.博弈树 与回溯法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "博弈与SG函数"
+              "title": "4.博弈树 与回溯法"
             }
           }
         ]
