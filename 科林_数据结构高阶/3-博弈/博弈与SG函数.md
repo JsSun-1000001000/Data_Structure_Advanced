@@ -42,4 +42,12 @@
 
 结论：
 1. nim和为0时，先手必败
-2. nim和：$\oplus b$
+2. nim和：$a_{1}\oplus a_{2}\oplus a_{3}\oplus \dots\oplus a_{n}=0$
+
+### ICG的核心：SG定理
+
+$SG(x)=mex{SG(y)}$
+
+可以拆成多个子游戏的组合，$x$ 是当前局面，$y$ 是子游戏，$mex$ 是查找函数，找当前集合中最小未出现的非负整数
+
+所有ICG
