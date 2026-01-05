@@ -50,4 +50,5 @@ $SG(x)=mex{SG(y)}$
 
 可以拆成多个子游戏的组合，$x$ 是当前局面，$y$ 是子游戏，$mex$ 是查找函数，找当前集合中最小未出现的非负整数
 
-所有ICG
+所有ICG问题都能拆成nim，然后$SG_{total}=SG_{1}\oplus SG_{2}\oplus SG_{3}\dots SG_{x}$
+
