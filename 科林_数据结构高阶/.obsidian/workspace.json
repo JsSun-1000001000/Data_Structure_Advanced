@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "588a5b5e43a8189a",
@@ -195,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7b8c4dbbbf4ca6a",
+  "active": "57e09dbef020cde0",
   "lastOpenFiles": [
     "2-图/图片资源/最大流在二部图的应用.png",
     "2-图/图片资源/netflow.pdf",
