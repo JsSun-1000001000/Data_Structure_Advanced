@@ -11,14 +11,12 @@
             "id": "57e09dbef020cde0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "2-图/1.二部图和最大流.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20260105160928.png"
               },
-              "icon": "lucide-file",
-              "title": "1.二部图和最大流"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260105160928"
             }
           }
         ]
@@ -78,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "588a5b5e43a8189a",
@@ -196,12 +193,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "57e09dbef020cde0",
+  "active": "e7b8c4dbbbf4ca6a",
   "lastOpenFiles": [
+    "2-图/1.二部图和最大流.md",
+    "Pasted image 20260105160928.png",
     "2-图/图片资源/匈牙利算法图解.png",
     "2-图/图片资源/最大流在二部图的应用.png",
     "2-图/图片资源/netflow.pdf",
-    "2-图/1.二部图和最大流.md",
     "2-图/图片资源/netflow.pdf.crdownload",
     "2-图/图片资源/Ford-Fulkerson路径.png",
     "2-图/图片资源/residual graph3.png",
@@ -211,13 +209,11 @@
     "2-图/图片资源/二部图.png",
     "2-图/图片资源/非二部图.png",
     "2-图/图片资源",
-    "2-图/图片资源/二分图.png",
     "1-树/4.博弈树 与回溯法.md",
     "1-树/3.红黑树删除节点.md",
     "0-线性衍生/哈希表.md",
     "0-线性衍生/哈希表.pdf",
     "1-树/图片资源",
-    "1-树/图片资源/红黑树删除.png",
     "1-树/2.红黑树手搓.md",
     "1-树/1.红黑树RBT.md",
     "欢迎.md",
