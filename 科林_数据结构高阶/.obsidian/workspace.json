@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-DP/1.DP Dynamic Programming.md",
+                "file": "1-树/1.红黑树RBT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.DP Dynamic Programming"
+              "title": "1.红黑树RBT"
             }
           }
         ]
@@ -185,20 +185,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "963c03ac50f814ea",
   "lastOpenFiles": [
-    "3-博弈/1.博弈与SG函数.md",
+    "1-树/2.红黑树手搓.md",
+    "1-树/3.红黑树删除节点.md",
+    "1-树/1.红黑树RBT.md",
     "4-DP/1.DP Dynamic Programming.md",
+    "3-博弈/1.博弈与SG函数.md",
     "1-树/4.博弈树 与回溯法.md",
     "2-图/1.二部图和最大流.md",
     "2-图/图片资源/Gale Sharply算法.png",
@@ -214,12 +217,9 @@
     "2-图/图片资源/二部图.png",
     "2-图/图片资源/非二部图.png",
     "2-图/图片资源",
-    "1-树/3.红黑树删除节点.md",
     "0-线性衍生/哈希表.md",
     "0-线性衍生/哈希表.pdf",
     "1-树/图片资源",
-    "1-树/2.红黑树手搓.md",
-    "1-树/1.红黑树RBT.md",
     "欢迎.md",
     "4-DP",
     "3-博弈",
